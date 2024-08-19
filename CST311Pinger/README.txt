@@ -1,0 +1,1 @@
+This project is used with a Virtual system and a local machine. It pings the server with a 40% accuracy ten times. How to run this program is have the server running on a virtual machine then run the client.py program and it should ping the server and output in the command line the Ping number and whether it was successful or not. These were created in IntelliJ IDEA.
